@@ -15,16 +15,18 @@ AdSnap Studio is a Streamlit-based web application for generating and editing im
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- [Streamlit](https://streamlit.io/)
-- [Pillow (PIL)](https://pillow.readthedocs.io/)
-- [Requests](https://docs.python-requests.org/)
-- [Python-dotenv](https://pypi.org/project/python-dotenv/)
-- [NumPy](https://numpy.org/)
-- [streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas)
-- BRIA.ai: For generative AI models
-- Python - The core programming language
+- **Python** – Core language  
+- **Streamlit** – Web app framework  
+- **Pillow** – Image processing  
+- **Requests** – API calls  
+- **dotenv** – Environment variable management  
+- **NumPy** – Array operations  
+- **streamlit-drawable-canvas** – Drawing on images  
+- **BRIA.ai** – AI image generation API  
 
 ---
+
+
 
