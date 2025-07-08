@@ -4,16 +4,44 @@ AdSnap Studio is a Streamlit-based web application for generating and editing im
 
 ---
 
-## 🚀 Features
+## 🌟 Features
 
-- ✨ Enhance prompts for better image generation  
-- 🖼 Generate high-quality images from text
-- 🌄 Create lifestyle shots and clean packshots  
-- 🎨 Apply filters like Sepia, Blur, and Grayscale  
-- 🎭 Use generative fill to mask and replace image parts  
-- 🧼 Erase unwanted elements with smart masking  
-- 🔁 Auto-check and preview generated images  
+- 🖼️ Generate HD product images from text prompts
+- 🎯 Remove backgrounds with custom colors
+- 🌅 Add realistic shadows
+- 🏠 Create lifestyle shots with text or reference images
+- ✨ AI-powered prompt enhancement
+- 📝 Optional CTA text overlay
+- 🎮 Intuitive UI controls
+- 💾 Easy image download
 
+---
+
+## 💡 Usage
+
+1. Enter a product description or upload an image
+2. Configure generation options in the sidebar:
+   - Enhance prompt with AI
+   - Remove background
+   - Add shadows
+   - Generate lifestyle shots
+3. Adjust advanced settings like background color and shadow intensity
+4. Click "Generate Ad" to create your images
+5. Download the results
+
+---
+
+## 🔧 Configuration
+
+The app supports various configuration options through the UI:
+
+- **Prompt Enhancement**: Improve your text prompts with AI
+- **Background Removal**: Remove backgrounds with custom colors
+- **Shadow Effects**: Add realistic shadows with adjustable intensity
+- **Lifestyle Shots**: Place products in context using text or reference images
+- **CTA Text**: Add optional call-to-action text overlays
+
+---
 
 ## 🛠️ Tech Stack
 
