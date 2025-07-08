@@ -6,14 +6,14 @@ AdSnap Studio is a Streamlit-based web application for generating and editing im
 
 ## 🚀 Features
 
-- 🔑 Load your API key securely via `.env` file
-- 🖼 Upload and preview images
-- 🎨 Apply filters like Grayscale, Sepia, Blur, and High Contrast
-- ✨ Generate AI-powered images using prompts or input images
-- 🔍 Auto-check if generated images are ready
-- 🧠 Smart handling of different API response formats
+- ✨ Enhance prompts for better image generation  
+- 🖼 Generate high-quality images from text
+- 🌄 Create lifestyle shots and clean packshots  
+- 🎨 Apply filters like Sepia, Blur, and Grayscale  
+- 🎭 Use generative fill to mask and replace image parts  
+- 🧼 Erase unwanted elements with smart masking  
+- 🔁 Auto-check and preview generated images  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -25,8 +25,6 @@ AdSnap Studio is a Streamlit-based web application for generating and editing im
 - **NumPy** – Array operations  
 - **streamlit-drawable-canvas** – Drawing on images  
 - **BRIA.ai** – AI image generation API  
-
----
 
 
 
